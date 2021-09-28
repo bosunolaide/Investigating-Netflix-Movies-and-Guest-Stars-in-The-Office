@@ -9,7 +9,7 @@ DataCamp's Data Science case study project on duration of movies over the years 
  - Case Studies
 
 ## Tools Used:
- - Interactive Python NoteBook (Jupyter Notebook)
+ - Interactive Python Notebook (Jupyter Notebook)
  - Python 3
  - Pandas Library
  - Matplotlib Library
